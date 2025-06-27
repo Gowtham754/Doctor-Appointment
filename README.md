@@ -1,1 +1,1 @@
-# Seamless-Doctor--Appoinment-Booking
+# Seamless-Doctor-Appoinment-Booking
